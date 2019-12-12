@@ -24,10 +24,10 @@ function bps()
 end
 function Main()
   menu1 = gg.choice({
-    "________📁MENU📁________",
-    "________📁Lobby Menu📁________",
-    "________📁In Game Menu📁________",
-    "_________||EXIT||_________",
+    "_______📁MENU📁________",
+    "______📁Lobby Menu📁________",
+    "_______📁In Game Menu📁________",
+    "________||EXIT||_________",
     " 📧CONTACT📧"
   }, nil, "🇸‌🇬‌🇧‌ Vip 2.3 (Continued by Biswajit)")
   if menu1 == 1 then
